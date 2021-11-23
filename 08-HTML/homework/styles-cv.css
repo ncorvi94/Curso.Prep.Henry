@@ -1,0 +1,17 @@
+ul {
+    list-style-type: none;
+}
+
+.infoPersonal{
+    background: #3574d2;
+    color: red;
+    border-width: thin;
+    border-color: red;
+}
+
+.experiencia{
+    background: cyan;
+}
+.tecnologias{
+    background: #383f49;
+}
